@@ -1,0 +1,6 @@
+*.pyc
+*.hex
+*.log
+.pio/
+.vscode/
+*.uvguix.OWNER
