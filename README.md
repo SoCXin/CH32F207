@@ -11,7 +11,7 @@
 
 [![sites](docs/CH32F207.png)](http://www.wch.cn/products/CH32F207.html)
 
-#### 关键特性
+### 关键特性
 
 * 千兆以太网控制器ETH（内置10M PHY）
 * SDIO接口、FSMC接口、DVP数字图像接口
@@ -27,6 +27,12 @@
 * [入门文档](https://docs.soc.xin/CH32F207)
 
 ### [选型建议](https://github.com/SoCXin)
+
+[CH32F207](https://github.com/SoCXin/CH32F207)相比[CH32F208](https://github.com/SoCXin/CH32F208)偏向于有线连接，具备更高规格的以太网和USB-HS配置，外设资源更丰富。
+
+
+[![sites](docs/diff.png)](http://www.wch.cn/products/CH32F207.html)
+[![sites](docs/list.png)](http://www.wch.cn/products/CH32F207.html)
 
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
